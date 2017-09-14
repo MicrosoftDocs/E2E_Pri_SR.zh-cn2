@@ -13,10 +13,15 @@
     }
   ],
   "notification_subscribers": [],
-  "branches_to_filter": [],
+  "branches_to_filter": [
+    "live"
+  ],
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
+  "contribution_branch_mappings": {
+    "live-sxs": "live"
+  },
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -34,6 +39,7 @@
       }
     }
   ],
+  "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
   "need_generate_pdf": false,
   "need_generate_intellisense": false
