@@ -1,17 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "E2E_Pri_SR",
-      "build_source_folder": "E2E_Pri_SR",
-      "build_output_subfolder": "E2E_Pri_SR",
-      "locale": "zh-cn",
-      "monikers": [],
-      "open_to_public_contributors": false,
-      "build_entry_point": "docs",
-      "template_folder": "_themes",
-      "version": 0
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "branches_to_filter": [],
   "continue_with_document_error": true,
